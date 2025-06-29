@@ -1,0 +1,50 @@
+body {
+    font-family:  sans-serif,Arial;
+    margin: 20px;
+}
+
+h1 {
+    color: #440ff0;
+}
+.main-image{
+    
+    width: 90%;
+    object-fit: cover;
+    object-position: center;
+}
+
+.inner-image{
+    width: 90%;
+    margin-top: 20px;
+}
+
+.sub-title{
+    display: block;
+    font-size:12px;
+    font-weight: normal;
+    color: #eb7e0a;
+    ;
+}
+.clear{
+    clear:both;
+}
+
+p.body-text{
+    text-align: justify;
+}
+
+.left{
+    float: left;
+    width: 50%;
+    
+}
+.right{
+    float: left;
+    width: 50%;
+    
+}
+footer{
+    border-top: 2px solid #e3e3e3;
+    margin-top: 50px;
+    padding: 20px;
+}
